@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I have a working knowledge of **Javascript** language but _not_ an indepth knowledge, as you might expect. 
